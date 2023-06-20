@@ -21,7 +21,7 @@ const App = () => {
     },
     {
       name: "Instagram",
-      url: "https://www.linkedin.com/",
+      url: "https://www.instagram.com/rei_kaji0/",
     },
     {
       name: "Facebook",

@@ -18,7 +18,11 @@ const LinkTree = ({ links }) => {
         Developer & Photographer
       </h3>
       <div className="flex flex-wrap justify-center items-center w-full h-full gap-5 mb-8">
-        <a href="https://www.linkedin.com/" target="_blank" rel="noopener">
+        <a
+          href="https://www.instagram.com/rei_kaji0/"
+          target="_blank"
+          rel="noopener"
+        >
           <img src={InstagramIcon} alt="instagramicon" className="w-10" />
         </a>
         <EmailLink />
