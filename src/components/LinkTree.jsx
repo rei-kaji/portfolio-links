@@ -7,7 +7,7 @@ import EmailLink from "./EmailLink";
 
 const LinkTree = ({ links }) => {
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen py-10 bg-red-100">
+    <div className="flex flex-col items-center justify-center min-h-screen py-10 bg-white">
       <img
         src={ProfileImage}
         alt="profile"
