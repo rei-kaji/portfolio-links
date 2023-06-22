@@ -4,11 +4,11 @@ import LinkTree from "./components/LinkTree";
 const App = () => {
   const links = [
     {
-      name: "Portfolio 1",
+      name: "Portfolio 2D",
       url: "https://rei-portfolio-2d.netlify.app/",
     },
     {
-      name: "Portfolio 2",
+      name: "Portfolio 3D",
       url: "https://rei-portfolio-3d.netlify.app/",
     },
     {
