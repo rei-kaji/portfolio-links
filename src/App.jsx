@@ -4,6 +4,10 @@ import LinkTree from "./components/LinkTree";
 const App = () => {
   const links = [
     {
+      name: "Resume",
+      url: "https://drive.google.com/file/d/1CcOUzqTTkOWxRv5vusTS6SXdMLcuSllG/view?usp=sharing",
+    },
+    {
       name: "Portfolio 2D",
       url: "https://rei-portfolio-2d.netlify.app/",
     },
