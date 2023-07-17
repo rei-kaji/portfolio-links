@@ -5,7 +5,7 @@ const App = () => {
   const links = [
     {
       name: "Resume",
-      url: "https://drive.google.com/file/d/1CcOUzqTTkOWxRv5vusTS6SXdMLcuSllG/view?usp=sharing",
+      url: "https://drive.google.com/drive/folders/1JsL-7dREExO6D8xwjgOFriz2QVMrHFMi?usp=sharing",
     },
     {
       name: "Portfolio 2D",
