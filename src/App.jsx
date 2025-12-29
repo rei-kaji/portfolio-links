@@ -22,7 +22,7 @@ const App = () => {
     {
       name: "LinkedIn",
       url: "https://www.linkedin.com/in/reikaji",
-    // },
+    },
     // {
     //   name: "Instagram",
     //   url: "https://www.instagram.com/rei_kaji0/",
