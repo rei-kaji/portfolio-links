@@ -15,24 +15,24 @@ const LinkTree = ({ links }) => {
       />
       <h1 className="text-4xl mb-3 font-bold">Rei Kajiwara</h1>
       <h3 className="text-2xl mb-5 text-gray-500 text-center">
-        Developer & Photographer
+        Programmer & Photographer
       </h3>
       <div className="flex flex-wrap justify-center items-center w-full h-full gap-5 mb-8">
-        <a
+        {/* <a
           href="https://www.instagram.com/rei_kaji0/"
           target="_blank"
           rel="noopener"
         >
           <img src={InstagramIcon} alt="instagramicon" className="w-10" />
-        </a>
+        </a> */}
         <EmailLink />
-        <a
+        {/* <a
           href="https://www.facebook.com/rei.kajiwara.9?mibextid=LQQJ4d"
           target="_blank"
           rel="noopener"
         >
           <img src={FacebookIcon} alt="facebookicon" className="w-10" />
-        </a>
+        </a> */}
       </div>
       <div className="w-72">
         {links.map((link) => (
